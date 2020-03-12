@@ -1,0 +1,16 @@
+{
+  "name": "storybooks",
+  "version": "1.0.0",
+  "description": "App to share public and write stories",
+  "main": "app.js",
+  "scripts": {
+    "watch": "nodemon app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Collins",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.4"
+  }
+}
